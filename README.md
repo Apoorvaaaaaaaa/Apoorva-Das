@@ -56,7 +56,7 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Apoorva-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/apoorva-das-18326124a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Apoorva-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorva-das-18326124a/)
 [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter&logoColor=white)](https://x.com/apoorvaaaaa_das)
 [![Gmail](https://img.shields.io/badge/Gmail-Email_Me-red?logo=gmail&logoColor=white)](mailto:apurvadas00@gmail.com)
 
