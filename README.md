@@ -6,20 +6,24 @@
 
 ---
 
-## 💫 About Me
-- 🎓 Electronics & Communication Engineering student at Bharati Vidyapeeth College of Engineering.
-- 💻 Passionate about **Frontend Development** and building interactive web experiences.
-- 🌱 Currently working on: **Blossom Stays** – Airbnb-inspired stay booking website.
-- 📈 Goal: Becoming a skilled developer & landing a role in a product-based company.
-- ⚡ Fun fact: I love aesthetic design and turning ideas into reality.
+## 21,engineer/developer.
 
 ---
 
 ## 🛠 Tech Stack & Tools
-
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
@@ -29,8 +33,7 @@
 ## 📌 Featured Projects
 
 - 🌸 [**Blossom Stays**](https://github.com/Apoorvaaaaaaaa/AIRBNB-CLONE) – Airbnb-inspired responsive stay booking site with HTML, CSS, and JavaScript.
-- 📡 IoT Projects – ESP8266-based automation & simulations (coming soon!).
-- 📊 Corporate Governance Analysis – A dissertation exploring governance-performance relationships.
+
 
 ---
 
@@ -53,9 +56,9 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Apoorva-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-pink?logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
-[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-red?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Apoorva-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/apoorva-das-18326124a)
+[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter&logoColor=white)](https://x.com/apoorvaaaaa_das)
+[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-red?logo=gmail&logoColor=white)](mailto:apurvadas00@gmail.com)
 
 ---
 
